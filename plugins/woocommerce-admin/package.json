@@ -55,7 +55,7 @@
 		"@wordpress/compose": "wp-6.0",
 		"@wordpress/core-data": "wp-6.0",
 		"@wordpress/data-controls": "wp-6.0",
-		"@wordpress/date": "wp-6.0",
+		"@wordpress/date": "4.48.0",
 		"@wordpress/dom": "wp-6.0",
 		"@wordpress/dom-ready": "wp-6.0",
 		"@wordpress/edit-site": "5.15.0",
