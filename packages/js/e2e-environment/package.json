@@ -61,7 +61,7 @@
 		"jest": "~27.5.1",
 		"jest-circus": "27.5.1",
 		"jest-each": "27.5.1",
-		"jest-puppeteer": "^5.0.4",
+		"jest-puppeteer": "^10.1.4",
 		"node-stream-zip": "^1.15.0",
 		"puppeteer": "2.1.1",
 		"readline-sync": "^1.4.10",
