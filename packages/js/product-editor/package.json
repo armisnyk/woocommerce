@@ -58,7 +58,7 @@
 		"@wordpress/data": "wp-6.0",
 		"@wordpress/date": "wp-6.0",
 		"@wordpress/deprecated": "wp-6.0",
-		"@wordpress/edit-post": "wp-6.0",
+		"@wordpress/edit-post": "7.3.1",
 		"@wordpress/editor": "wp-6.0",
 		"@wordpress/element": "wp-6.0",
 		"@wordpress/hooks": "wp-6.0",
