@@ -26,7 +26,7 @@
 	"dependencies": {
 		"@actions/core": "^1.10.1",
 		"@commander-js/extra-typings": "^10.0.3",
-		"@octokit/graphql": "4.8.0",
+		"@octokit/graphql": "8.2.1",
 		"@octokit/graphql-schema": "^14.45.1",
 		"@octokit/types": "^9.3.2",
 		"@slack/web-api": "^6.10.0",
@@ -43,7 +43,7 @@
 		"js-yaml": "^4.1.0",
 		"luxon": "^3.4.4",
 		"minimatch": "^9.0.3",
-		"octokit": "^2.1.0",
+		"octokit": "^4.1.2",
 		"ora": "^5.4.1",
 		"promptly": "^3.2.0",
 		"semver": "^7.5.4",
