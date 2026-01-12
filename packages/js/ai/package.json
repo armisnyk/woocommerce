@@ -59,7 +59,7 @@
 		"debug": "^4.3.4",
 		"dompurify": "^2.4.7",
 		"prop-types": "^15.8.1",
-		"react-router-dom": "~6.3.0"
+		"react-router-dom": "~6.30.2"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.23.5",
